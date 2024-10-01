@@ -112,7 +112,7 @@ O admin tem acesso privilegiado e pode gerenciar o cardápio, adicionando, edita
 
 Usuário:
 
-- E-mail: userfoodexplorer@email.com
+- E-mail: foodexploreruser@email.com
 - Senha: explorer123
 
 O usuário tem acesso restrito às funcionalidades da aplicação, podendo visualizar o cardápio, filtrar pratos, ver detalhes de pratos específicos, favoritar pratos e adicionar pratos ao carrinho.
